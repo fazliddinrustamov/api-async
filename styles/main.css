@@ -1,0 +1,13 @@
+.box {
+  background-color: cornsilk;
+  padding: 15px;
+  margin: 10px;
+  border-radius: 12px;
+  display: inline-block;
+  transition: 0.3s ease;
+}
+
+.box:hover {
+  cursor: pointer;
+  transform: scale(1.2);
+}
